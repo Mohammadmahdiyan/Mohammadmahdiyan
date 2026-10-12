@@ -1,5 +1,5 @@
 
-<h1 align="center">🌟 Welcome to the world of <span style="color:#39FF14">iKO Jayko</span> 👋</h1>
+<h1 align="center">🌟 Welcome to the world of <span style="color:#39FF14">Mohammad Mahdiyan</span> 👋</h1>
 <p align="center">
   A passionate <strong>Frontend Developer</strong> turning ideas into interactive, colorful, and pixel-perfect web experiences.<br/>
   Fueled by coffee ☕, creativity 🎨, and smooth animations ✨
@@ -16,8 +16,8 @@
 - 💻 Currently mastering **Next.js 15** & advanced React patterns  
 - 🧠 Exploring **motion design, clean architecture, and performance optimization**  
 - ☕ Coffee, rhythm, and code keep me going!  
-- 📬 Reach me: [iko.jayko.dev@gmail](mailto:iko.jayko.dev@gmail.com)  
-- 💬 Telegram: [@DevMiko](https://t.me/DevJayko)  
+- 📬 Reach me: [mohammadMahdiyanPanah@gmail](mailto:mohammadMahdiyanPanah@gmail.com)  
+- 💬 Telegram: [@Rasoolallah_s_is_best](https://t.me/Rasoolallah_s_is_best)
 
 ---
 
