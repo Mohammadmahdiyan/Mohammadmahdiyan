@@ -116,8 +116,8 @@
 ### 🖥️ GitHub Stats & Animated Code
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayko-iKO&show_icons=true&theme=radical" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayko-iKO&layout=compact&theme=radical" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammadmahdiyan&show_icons=true&theme=radical" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadmahdiyan&layout=compact&theme=radical" width="350" />
 </p>
 
 <div align="center">
